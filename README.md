@@ -1,4 +1,4 @@
-# Wordcount-Exercise# Boston-Data-Exercise#
+# Wordcount-Exercise# Boston-Data-Exercise
 MITxPro BootCamp - Full Stack Development MERN - Week 6 Callback Functions
 
 ## Description: 
